@@ -18,7 +18,7 @@ A collection of generative and digital artworks shared weekly as inspiration. Ea
 
 ## Week 4: **"Chrome Music Lab – Lines"**  
 [View Artwork](https://lines.chromeexperiments.com/)  
-🔹 Interactive generative art that connects motion and sound.
+🔹 Interactive generative art that connects motion and finds matching patterns from google maps
 
 ## Week 5: **Refik Anadol – "Virtual Archive"**  
 [View Artwork](https://refikanadol.com/works/virtual-archive/)  
